@@ -19,8 +19,7 @@ The objective of this project is to **automatically count the number of related 
 │   ├── classes/
 │   │   ├── AccountHandler.cls          # Main business logic
 │   │   ├── AccountHandlerTest.cls      # Unit tests
-│   │   ├── AccountHelper.cls           # Helper class (if exists)
-│   │   └── TriggerHelper.cls           # Recursion control
+│   │   └── AccountHelper.cls           # Helper class (if exists) Recursion control
 │   └── triggers/
 │       └── UpdateAccountContactCount.trigger  # Main trigger
 ├── scripts/apex/
